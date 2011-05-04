@@ -6,7 +6,7 @@
 	url = git://github.com/fnichol/chef-bashrc.git
 [submodule "rvm"]
 	path = rvm
-	url = git://github.com/fnichol/chef-rvm.git
+	url = git://github.com/daneroo/chef-rvm.git
 [submodule "rvm_passenger"]
 	path = rvm_passenger
 	url = git://github.com/fnichol/chef-rvm_passenger.git
@@ -39,7 +39,7 @@
 	url = git://github.com/fnichol/chef-swftools.git
 [submodule "gitorious"]
 	path = gitorious
-	url = git://github.com/fnichol/chef-gitorious.git
+	url = git://github.com/daneroo/chef-gitorious.git
 [submodule "jenkins"]
 	path = jenkins
 	url = git://github.com/fnichol/chef-jenkins.git
